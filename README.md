@@ -3,6 +3,7 @@
 ## Overview
 
 This is a self-training project built to practice core subscription business metrics using a realistic, synthetic SaaS dataset. The goal was not just to calculate numbers, but to understand the business logic behind each metric well enough to explain it, defend it, and catch errors in it.
+link for blog: https://theanalyticsolution.wixsite.com/analytic-solution/post/business-metrics-scenarios-business-questions-answers
 
 ## Purpose
 
